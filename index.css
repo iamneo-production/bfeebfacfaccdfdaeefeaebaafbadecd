@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.clickable {
+    cursor: pointer;
+}
+
+#break-length,
+#session-length,
+#timer-label,
+#time-left,
+#start_stop,
+#reset {
+    font-size: 24px;
+    margin: 10px;
+}
+
+#break-decrement,
+#session-decrement,
+#break-increment,
+#session-increment {
+    font-size: 32px;
+}
